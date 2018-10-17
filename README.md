@@ -1,3 +1,3 @@
 # dev
 
-subl <filename>
+subl \<filename\>
