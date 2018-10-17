@@ -1,1 +1,3 @@
 # dev
+
+subl <filename>
