@@ -5,3 +5,4 @@
 ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
 
 brew install postgres
+pg_ctl -D /usr/local/var/postgres start && brew services start postgresql
