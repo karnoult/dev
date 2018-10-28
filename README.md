@@ -3,3 +3,4 @@
 subl \<filename\>
 
 [iTerm2](https://iterm2.com/features.html)
+[Oh My Zsh](https://ohmyz.sh/)
