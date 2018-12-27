@@ -6,7 +6,9 @@
 - https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet
 
 alias cddd="cd ~/.datadog-agent/"
+
 alias cddev="cd ~/Documents/dev"
+
 alias dd="datadog-agent"
 
 subl \<filename\>
